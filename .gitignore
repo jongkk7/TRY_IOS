@@ -16,7 +16,7 @@ Pods/
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 # gitignore 테스트!!! 
-Podfile.lock
+!Podfile.lock
 
 ## User settings
 xcuserdata/
